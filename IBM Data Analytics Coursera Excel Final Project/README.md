@@ -29,4 +29,6 @@ Data source : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud
 
 7. **Department names:** When the data was converted from its data source, the department names (see correct list below) didn’t import correctly and they are now split over two columns in the data. Use Flash Fill to reduce the department names to just one column, and then remove any unnecessary columns.
 
+![a1](https://user-images.githubusercontent.com/74729228/197416790-38dbae48-016d-49c8-8583-fa197da0afcc.png)
+
 8. **Save your workbook:** Use 'Save As' to save your completed workbook as **Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX**
