@@ -13,7 +13,7 @@ The Assignment had two sections:
 
 #### The first assignment
 
-Data source : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv
+[Click here for the data source](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0130EN-SkillsNetwork/Hands-on%20Labs/Peer%20Graded%20Assignment%20-%20Part%201/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv)
 
 1. **Save the CSV file as an XLSX file:** Click the 'Edit Workbook' button in the ToolTip to save the file as an XLSX file. The file is converted when you click 'OK' in the prompt.
 
@@ -36,7 +36,7 @@ Data source : https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud
 
 #### The second assignment
 
-Data source : 
+[Click here for the data source](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0130ENSkillsNetwork20531059-2022-01-01)
 
 1. **Format the data as a table**: Use the Format as Table option to format the data as a table.
 
