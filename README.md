@@ -9,4 +9,4 @@ Microsoft Excel important functionalities include:
 5. Vlookup
 6. VBA macros
 
-**This repository has some hands-on projects involving one of these.**
+**This repository has some hands-on projects showcasing one of these skills.**
