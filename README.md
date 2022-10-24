@@ -1,6 +1,6 @@
 # Excel-Projects
 
-Microsoft Excel important functionalities include:
+Microsoft Excel functionalities for data profiling, crunching, cleaning and analysis include:
 
 1. Data filters, functions
 2. Formulas
@@ -9,4 +9,4 @@ Microsoft Excel important functionalities include:
 5. Vlookup
 6. VBA macros
 
-**This repository has hands-on projects showcasing some of these skills.**
+**This repository has hands-on projects putting these into practice.**
