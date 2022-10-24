@@ -10,3 +10,5 @@ Microsoft Excel functionalities for data profiling, crunching, cleaning and anal
 6. VBA macros
 
 **This repository has hands-on projects putting these into practice.**
+
+Check the folders above for different projects.
