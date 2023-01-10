@@ -10,7 +10,7 @@
 
 [2- IBM Data Analytics Project Exercises](https://github.com/M-Gwaza/Excel-Projects/tree/main/IBM%20Data%20Analytics%20Coursera%20Excel%20Final%20Project)
 
-# About the Excel projects
+### About the Excel projects
 - They showcase various functionalities used for data profiling, crunching, cleaning and analysis
 - These operations include: 
 
