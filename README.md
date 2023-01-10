@@ -14,11 +14,11 @@
 - They showcase various functionalities used for data profiling, crunching, cleaning and analysis
 - These operations include: 
 
-1. Data filters, functions
-2. Formulas
-3. Charts and plots
-4. Pivot table, transpose
-5. Vlookup
-6. VBA macros
-7. Visualization
+    -  Data filters, functions
+    - Formulas
+    - Charts and plots
+    - Pivot table, transpose
+    - Vlookup
+    - VBA macros
+    - Visualization
 
