@@ -4,7 +4,7 @@
 - Clicking any of the links below will grant you access to any of the projects either with a direct download or to a folder with everything about the project.
 
 
-[1- Global Suicide Rates 1985 - 2016 Interactive Dashboards in Excel Workbook](https://docs.google.com/uc?export=download&id=1J1Qs0dXio8m8pTGLpWr0-mKf8FXibufS)
+[1- Global Suicide Rates 1985 - 2016 Interactive Dashboards in Excel Workbook](https://docs.google.com/uc?export=download&id=1xyx7ANWbdssghuFpGB0h3t7J7m-bej-h)
 ![alt text](https://github.com/M-Gwaza/Excel-Projects/blob/main/Screenshots/dashboard2.png)
 
 
